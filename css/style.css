@@ -1,0 +1,39 @@
+.heder-page1 {
+	vertical-align: middle;
+	height: 50px;
+	margin: 0 auto;
+	background-color: #F6F8F9;
+}
+
+.logo {
+	vertical-align: middle;
+	margin-right: 92px;
+	padding: 18px 0 17px 20px;
+}
+
+.nav-box2 {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-bold {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+	font-size: 11px;
+	color: #202124;	
+}
+
+.nav-class {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+	font-size: 11px;
+	color: #A6ADB4;
+}
+
+.photo-img	{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 18px;
+}
