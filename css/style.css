@@ -1,4 +1,5 @@
 body {
+	width: 1440px;
 	height: 2000px;
 	background-color: #F6F8F9;
 }
@@ -50,8 +51,8 @@ body {
 
 .cection1-div1 {
 	width: 0 auto;
-	height: 410px;
-	padding: 80px 0 0 0  ;
+	height: 493px;
+	padding-top: 80px;
 }
 
 .section1-h3 {
@@ -63,55 +64,37 @@ body {
 .cection1-div2 {
 	display: inline-block;
 	vertical-align: middle;
-	position: absolute;
+	position: relative;
 	width: 360px;
 	height: 350px;
-	margin: 0 35px 0 140px;
 	background-color: #FFFFFF;
-	z-index: 100;
+	margin: 0 35px 0 140px;
 }
-
-.img-photo1 {
-	width: 360px;
-	height: 180;
-	position: absolute;
-
-}
-
 .cection1-div3 {
 	display: inline-block;
 	vertical-align: middle;
-	position: absolute;
+	position: relative;
 	width: 360px;
 	height: 350px;
-	margin-left: 540px;
 	background-color: #FFFFFF;
-	z-index: 90;
+	margin-right: 35px;
 }
 
-.img-photo2 {
-	width: 360px;
-	height: 180;
-	position: absolute;
-
-}
 
 .cection1-div4 {
 	display: inline-block;
 	vertical-align: middle;
-	position: absolute;
+	position: relative;
 	width: 360px;
 	height: 350px;
-	margin-left: 940px;
 	background-color: #FFFFFF;
-	z-index: 80;
 }
 
 
-.img-photo3 {
+.img-photo1 {
 	width: 360px;
 	height: 180;
-	position: absolute;
+	margin-bottom: 65px;
 
 }
 
@@ -122,16 +105,27 @@ body {
 	top: 20px;
 	left: 40px;
 	font-size: 16px;
-	color: #FFFFFF;
-	
+	color: #FFFFFF;	
 }
+
 
 .div-text1 {
 	width: 360px;
 	height: 170px;
-	padding: 246px 0 0 40px;
+	margin-left: 40px;
+
+}
+
+.div-text-p {
 	font-size: 13px;
 	color: #A6ADB4;
+	margin-bottom: 10px;
+}
+
+.div-text-p2 {
+	font-size: 13px;
+	color: #A6ADB4;
+
 }
 
 .clock-img {
@@ -145,13 +139,75 @@ body {
 	display: inline-block;
 	vertical-align: middle;
 	margin-top: 8px;
+	color: #A6ADB4;
 }
-
 
     /* section end1
 
 
     /*section start 2*/
 
+.h3-section2 {
+	font-size: 24px;
+	color: #202124;
+	margin: 53px 0 40px 140px;
+}
+
+.img-div {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0 40px 0px 140px;
+	margin-bottom: 37px;	
+}
+
+.image-div {
+	display: inline-block;
+	vertical-align: middle;
+	width: 360px;
+	height: 896px;
+	margin-bottom: 37px;
+}
+
+
+.bridge-img {
+	position: relative ;
+	margin-bottom: 40px;
+}
+
+.position-center {
+	position: absolute ;
+	width: 280px;
+	height: 17px;
+	font-size: 16px;
+	color: #FFFFFF;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50,-50);
+}
+
+.Forest-img {
+	width: 760px;
+	height: 430px;
+	
+}
+
+.elephant {
+	margin-bottom: 102px;
+}
+
+.parrot {
+	margin-bottom: 102px;
+}
 
     /*section end 2*/
+
+
+   /* footer start*/
+
+footer {
+	width: 1440;
+	height: 200px;
+	background-color: #A6ADB4;
+}   
+    /*footer end*/
+
