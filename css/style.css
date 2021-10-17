@@ -30,7 +30,8 @@ body {
 	vertical-align: middle;
 	margin-right: 22px;
 	font-size: 11px;
-	color: #202124;	
+	color: #202124;
+	font-family: 'Inter', sans-serif;	
 }
 
 .nav-class {
@@ -39,6 +40,7 @@ body {
 	margin-right: 22px;
 	font-size: 11px;
 	color: #A6ADB4;
+	font-family: 'Inter', sans-serif;
 }
 
 .photo-img	{
@@ -105,7 +107,8 @@ body {
 	top: 20px;
 	left: 40px;
 	font-size: 16px;
-	color: #FFFFFF;	
+	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;	
 }
 
 
@@ -120,11 +123,13 @@ body {
 	font-size: 13px;
 	color: #A6ADB4;
 	margin-bottom: 10px;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .div-text-p2 {
 	font-size: 13px;
 	color: #A6ADB4;
+	font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -138,8 +143,10 @@ body {
 .div-clock {
 	display: inline-block;
 	vertical-align: middle;
+	font-size: 13px;
 	margin-top: 8px;
 	color: #A6ADB4;
+	font-family: 'Open Sans', sans-serif;
 }
 
     /* section end1
@@ -183,6 +190,7 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(50,-50);
+	font-family: 'Open Sans', sans-serif;
 }
 
 .Forest-img {
@@ -240,6 +248,7 @@ footer {
 	font-size: 13px;
 	color: #CBD0D3;
 	margin-bottom: 9px;
+	font-family: 'Inter', sans-serif;
 }
 
 .footer-div2 {
@@ -262,6 +271,7 @@ footer {
 	vertical-align: middle;
 	font-size: 11px;
 	color: #CBD0D3;
+	font-family: 'Inter', sans-serif;
 }
 
 .footer-icons {
